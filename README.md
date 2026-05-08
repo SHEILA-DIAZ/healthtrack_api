@@ -70,126 +70,104 @@ La respuesta del endpoint de pacientes muestra:
 }
 ```
 
-# Capturas del Proyecto
+## Capturas del Proyecto
 
-## 01.png → Servidor Django
-
-Ruta:
-```text
-docs/capturas/01.png
-```
+### 01.png → Servidor Django
 
 Descripción:
 Servidor Django ejecutándose correctamente con `python manage.py runserver`.
 
+![Servidor Django](docs/capturas/01.png)
+
 ---
 
-## 02.png → Estructura del Proyecto
-
-Ruta:
-```text
-docs/capturas/02.png
-```
+### 02.png → Estructura del Proyecto
 
 Descripción:
 Estructura general del proyecto en Visual Studio Code.
 
+![Estructura Proyecto](docs/capturas/02.png)
+
 ---
 
-## 03.png → Models
-
-Ruta:
-```text
-docs/capturas/03.png
-```
+### 03.png → Models
 
 Descripción:
 Archivo `models.py` mostrando las entidades Doctor y Paciente.
 
+![Models](docs/capturas/03.png)
+
 ---
 
-## 04.png → Serializers
-
-Ruta:
-```text
-docs/capturas/04.png
-```
+### 04.png → Serializers
 
 Descripción:
 Archivo `serializers.py` mostrando los serializers de Doctor y Paciente.
 
+![Serializers](docs/capturas/04.png)
+
 ---
 
-## 05.png → Views
-
-Ruta:
-```text
-docs/capturas/05.png
-```
+### 05.png → Views
 
 Descripción:
 Archivo `views.py` mostrando los ViewSets implementados con Django REST Framework.
 
+![Views](docs/capturas/05.png)
+
 ---
 
-## 06.png → GET Doctores
-
-Ruta:
-```text
-docs/capturas/06.png
-```
+### 06.png → GET Doctores
 
 Descripción:
 Prueba del endpoint GET `/api/doctores/` en Postman.
 
+![GET Doctores](docs/capturas/06.png)
+
 ---
 
-## 07.png → POST Doctor
-
-Ruta:
-```text
-docs/capturas/07.png
-```
+### 07.png → POST Doctor
 
 Descripción:
 Creación de un doctor mediante endpoint POST.
 
+![POST Doctor](docs/capturas/07.png)
+
 ---
 
-## 08.png → POST Paciente
-
-Ruta:
-```text
-docs/capturas/08.png
-```
+### 08.png → POST Paciente
 
 Descripción:
 Registro de un paciente relacionado con un doctor.
 
+![POST Paciente](docs/capturas/08.png)
+
 ---
 
-## 09.png → Search Paciente
-
-Ruta:
-```text
-docs/capturas/09.png
-```
+### 09.png → Search Paciente
 
 Descripción:
 Búsqueda de pacientes usando `?search=`.
 
+![Search Paciente](docs/capturas/09.png)
+
 ---
 
-## 10.png → GitHub
-
-Ruta:
-```text
-docs/capturas/10.png
-```
+### 10.png → GitHub
 
 Descripción:
 Repositorio GitHub del proyecto mostrando commits y README.
 
+![GitHub](docs/capturas/10.png)
+
 ## Video YouTube
 
 https://youtu.be/trwP5sHuIwQ
+
+## GitHub
+
+https://github.com/SHEILA-DIAZ/healthtrack_api
+
+## README
+
+https://github.com/SHEILA-DIAZ/healthtrack_api/blob/main/README.md
