@@ -2,6 +2,7 @@ from rest_framework import viewsets
 from .models import Paciente, Doctor
 from .serializers import PacienteSerializer, DoctorSerializer
 
+# views api
 class PacienteViewSet(viewsets.ModelViewSet):
     queryset = Paciente.objects.all()
     serializer_class = PacienteSerializer
