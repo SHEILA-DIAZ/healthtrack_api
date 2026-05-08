@@ -162,7 +162,8 @@ Repositorio GitHub del proyecto mostrando commits y README.
 
 ## Video YouTube
 
-https://youtu.be/trwP5sHuIwQ
+https://www.youtube.com/watch?v=trwP5sHulwQ&feature=youtu.be
+
 
 ## GitHub
 
